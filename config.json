@@ -2,6 +2,6 @@
     "_comment": "you can put your bot token here. if you don't have a token, you can get one from https://discordapp.com/developers/applications.",
     "_warning": "PLEASE DO NOT SHARE YOUR TOKEN! AND PUT THIS FILE ON THE .gitignore FILE!",
     
-    "token": "OTY5NTUzMDY4MDg3NzEzNzky.GKE4lu.BW31BP6CtRnw8sRO46VZHW_GR7kQ75t_QrkM5E",
-    "welcome_channel": "946881113920520293"
+    "token": "TOKEN",
+    "welcome_channel": "ID"
 }
