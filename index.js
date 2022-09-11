@@ -1,6 +1,8 @@
 //import things.. (Discord.js, Token from config.json, etc)
 const DiscordJS = require('discord.js');
 const { token } = require('./config.json');
+const path = require('path');
+const fs = require('fs');
 
 //Initialize the bot (client) & use all of the intents. (you can use specific intents if you want)
 const client = new DiscordJS.Client({ intents: 32767 })
@@ -32,4 +34,4 @@ for (const file of eventFiles) {
 // Login to the Bot.
 
 
-client.login(process.env.TOKEN)
+client.login(token)
