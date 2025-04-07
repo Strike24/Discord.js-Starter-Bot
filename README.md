@@ -1,4 +1,5 @@
-# Discord.js Starter-Bot
+# Discord.js Starter Bot Template
+> **❗ Old And Not Maintained. ❗**<br><br>
 > A small & basic discord.js bot to help you get started 🏝️
 
 
